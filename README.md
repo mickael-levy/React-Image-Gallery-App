@@ -49,7 +49,7 @@ npm run build
 
 ### Author
 
-Pratham Singh
+Mickael Levy
 
 
 ### Version
